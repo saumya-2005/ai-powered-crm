@@ -1,17 +1,6 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
-  turbopack: {
-    rules: {
-      "*.css": {
-        loaders: ["@tailwindcss/turbopack"],
-        as: "*.css",
-      },
-    },
-  },
-};
+// Plain config. Cache Components is turned off because this app loads its data on the client.
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
