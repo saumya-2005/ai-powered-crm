@@ -2,8 +2,8 @@
 
 A modern, responsive CRM web app to manage leads, track customer interactions, run a sales pipeline and get AI-powered insights for every lead.
 
-- **Live demo:** <PASTE_VERCEL_LINK>
-- **Demo video:** <PASTE_VIDEO_LINK>
+- **Live demo:** [<PASTE_VERCEL_LINK>](https://ai-powered-crm-z5p1.vercel.app)
+- **Demo video:** [<PASTE_VIDEO_LINK>](https://drive.google.com/file/d/1jiZqgEr7m5cZFtt2hK9PrfUkMgBn_cjt/view?usp=sharing)
 
 ## Features
 
